@@ -7,7 +7,7 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	// Replace 'https://<username>.github.io' with your GitHub Pages URL
-	site: 'https://example.com',
+	site: 'https://S-Spektrum-M.github.io', // with your GitHub Pages URL
 	// Replace '/blog' with your repository name (e.g., '/my-blog')
 	// If you are using a custom domain or <username>.github.io, you may not need this.
 	base: '/blog',
